@@ -4,11 +4,11 @@ description = "Debounce a button and discriminate short vs. long presses"
 categories = ["embedded", "hardware-support", "no-std"]
 documentation = "https://docs.rs/debounced-button"
 authors = ["Chris Maniewski"]
-version = "0.4.1"
+version = "0.4.2"
 edition = "2021"
 readme = "README.md"
 license = "MIT OR Apache-2.0"
-repository = "https://git.sr.ht/~chmanie/debounced-button"
+repository = "https://github.com/ATOVproject/debounced-button"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
